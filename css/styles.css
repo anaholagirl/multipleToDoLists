@@ -1,0 +1,16 @@
+#show-contact {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.task {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.task:hover {
+  text-decoration: underline;
+}
